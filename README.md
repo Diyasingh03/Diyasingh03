@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm a Rising Junior at Purdue University studying Computer Science with concentrations in Machine Intelligence, Computer Graphicws and Visualisation and Algorithmic Fzoundations and minoring in Art & Design Studio and Mathematics<br>
-I'm currently working on ML and Computer Vision Projects<br>I'm looking for summer 2025 internships<br>
+I'm a Rising Junior at Purdue University studying Computer Science 
+💻 Concentrations in Machine Intelligence, Computer Graphics and Visualisation and Algorithmic Foundations
+⚙️ Minoring in Art & Design Studio and Mathematics<br>
+I'm currently working on ML and Computer Vision Projects<br>✨I'm looking for summer 2025 internships✨<br>
 
 
 ## 🌐 Socials:

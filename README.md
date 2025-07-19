@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm a Junior at Purdue University majoring in Computer Science Honors <br>
+I'm a Senior at Purdue University majoring in Computer Science Honors in the combined BS/MS program <br>
 💻 Concentrations in Machine Intelligence, Computer Graphics and Visualisation, Systems Programming and Algorithmic Foundations<br>
 ⚙️ Minoring in Art & Design Studio and Mathematics<br>
-I'm currently working on ML, Computer Vision Projects and my personal portfolio website at [diya.wiki](https://diya.wiki/) <br>✨I'm looking for summer 2025 internships✨<br>
+I'm currently working on ML, Computer Vision Projects and my personal portfolio website at [diya.wiki](https://diya.wiki/) <br>✨I'm looking for summer 2026 internships✨<br>
 
 
 ## 🌐 Socials:

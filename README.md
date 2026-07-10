@@ -1,27 +1,59 @@
-# 💫 About Me:
-I'm a Senior at Purdue University majoring in Computer Science Honors in the combined BS/MS program <br>
-💻 Concentrations in Machine Intelligence, Computer Graphics and Visualisation, Systems Programming and Algorithmic Foundations<br>
-⚙️ Minoring in Art & Design Studio and Mathematics<br>
-I'm currently working on ML, Computer Vision Projects and my personal portfolio website at [diya.wiki](https://diya.wiki/) <br>
+<!-- ═══════════════════════════════════════════════════════════════════
+     BANNER PLACEHOLDER — replace with your own artwork.
+     Commit your file (e.g. banner.svg or banner.png) to this same repo
+     (Diyasingh03/Diyasingh03) and update the src below.
+     Suggested canvas: ~1000×240, works in both light & dark GitHub themes.
+     For a theme-adaptive image, swap the <img> for a <picture> with a
+     prefers-color-scheme dark <source>.
+════════════════════════════════════════════════════════════════════ -->
+<img src="banner.svg" alt="diya singh — art ∩ logic" width="100%"/>
 
+<p align="center">
+  <a href="https://diya.wiki"><b>diya.wiki</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/diyasingh03">linkedin</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/diyuuu">codeforces</a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diyasingh03) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-white?logo=codeforces)](https://codeforces.com/profile/diyuuu)
+I build machine-learning systems the way a painter mixes pigment — *precisely, and on purpose*.
 
+- 🎓 CS Honors senior @ **Purdue** (combined BS/MS) — machine intelligence · graphics & visualization · systems · algorithmic foundations, with minors in **Art & Design Studio** and **Mathematics**
+- 🔭 currently: building **bloom**, benchmarking object detectors under corruption, and tending [diya.wiki](https://diya.wiki)
+- 🧑‍🏫 Head TA for 400+ students — I like making hard things feel learnable
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🌳 today's tree
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Diyasingh03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Diyasingh03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyasingh03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="art/tree.svg" width="100%" alt="a fractal tree grown fresh today"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<sub>grown fresh every day by a script that lives right here → [`art/grow.py`](art/grow.py) — a 2D cousin of [Procedural3DTree](https://github.com/Diyasingh03/Procedural3DTree). come back tomorrow for a different one.</sub>
 
----
-[![](https://visitcount.itsvg.in/api?id=Diyasingh03&icon=2&color=5)](https://visitcount.itsvg.in)
+### selected work
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| | |
+| --- | --- |
+| 🌸&nbsp;**[bloom](https://github.com/Diyasingh03/bloom)** | A PCOS management app that syncs meals, workouts, and daily AI guidance to your cycle phase — designed and built end-to-end. React Native · Expo · Gemini |
+| 🃏&nbsp;**[Flip7-AI](https://github.com/kraisr/Flip7-AI)** | An agent that plays the push-your-luck card game Flip 7 — dynamic programming over game states to decide when to flip and when to walk away. Python |
+
+<sub>also: **ReadCoin** — eye-tracking reading app, HackMIT finalist · **Procedural3DTree** — L-system trees in C + OpenGL · [everything else on diya.wiki →](https://diya.wiki)</sub>
+
+### up next
+
+🌱 **latent garden** — feed it a song or a paragraph; a model maps what it hears onto L-system grammar parameters and grows a one-of-a-kind procedural tree in the browser. *(watch this space)*
+
+### toolbox
+
+**ml / cv** — Python · PyTorch · pandas · YOLO / RT-DETR · Gemini API<br>
+**systems** — C · C++ · Java<br>
+**web & apps** — TypeScript · React / React Native · Next.js · FastAPI<br>
+**canvas** — OpenGL · generative SVG · Illustrator · Photoshop · Affinity Designer
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Diyasingh03&show_icons=true&hide_border=true&include_all_commits=true&rank=false&theme=dark&bg_color=00000000">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Diyasingh03&show_icons=true&hide_border=true&include_all_commits=true&rank=false" height="150" alt="github stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Diyasingh03&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Diyasingh03&layout=compact&hide_border=true" height="150" alt="top languages"/>
+  </picture>
+</p>
+

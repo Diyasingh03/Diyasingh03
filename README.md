@@ -41,14 +41,4 @@ I build machine-learning systems the way a painter mixes pigment - *precisely, a
 **web & apps** - TypeScript · React / React Native · Next.js · FastAPI<br>
 **canvas** - OpenGL · generative SVG · Illustrator · Photoshop · Affinity Designer
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Diyasingh03&show_icons=true&hide_border=true&include_all_commits=true&rank=false&theme=dark&bg_color=00000000">
-    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Diyasingh03&show_icons=true&hide_border=true&include_all_commits=true&rank=false" height="150" alt="github stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Diyasingh03&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
-    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Diyasingh03&layout=compact&hide_border=true" height="150" alt="top languages"/>
-  </picture>
-</p>
 

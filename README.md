@@ -11,7 +11,7 @@
 
 I build machine-learning systems the way a painter mixes pigment - *precisely, and on purpose*.
 
-- 🎓 CS @ **Purdue** (combined BS/MS) - machine intelligence · graphics & visualization · systems · algorithmic foundations, with minors in **Art & Design Studio** and **Mathematics**
+- 🎓 CS @ **Purdue** (combined BS/MS) - machine intelligence · graphics & visualization · systems · algorithmic foundations, with minors in **Mathematics** and **Art & Design Studio**
 - 🔭 currently: AI & ML Automation Intern at Envita Solutions and on the side building **bloom**, benchmarking object detectors under corruption, and tending [diya.wiki](https://diya.wiki)
 - 🧑‍🏫 Head TA for 400+ students in Problem Solving & OOP - I like making hard things feel learnable, also TA'd Discrete Mathematics and Analysis of Algorithms.
 

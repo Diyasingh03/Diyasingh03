@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════
      BANNER PLACEHOLDER: ~1000×240
 ════════════════════════════════════════════════════════════════════ -->
-<img src="banner.svg" alt="diya singh - art ∩ logic" width="100%"/>
+<!-- <img src="banner.svg" alt="diya singh - art ∩ logic" width="100%"/> -->
 
 <p align="center">
   <a href="https://diya.wiki"><b>diya.wiki</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
